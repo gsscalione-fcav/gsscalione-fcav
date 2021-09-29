@@ -12,10 +12,11 @@
 <div> 
   <a href = "mailto:gabriel.scalione@vanzolini.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ <!--
  <div> 
   ![Snake animation](https://github.com/gsscalione-fcav/gsscalione-fcav/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+-->
 
 <!--
 **gsscalione-fcav/gsscalione-fcav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
