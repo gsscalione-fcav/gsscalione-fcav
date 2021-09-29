@@ -14,7 +14,7 @@
 </div>
 
  <div> 
-  ![Snake animation](https://github.com/gsscalione-fcav/gsscalione-fcav/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gsscalione-fcav)
 </div>
 
 
